@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-17">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="controlador/ControladorDeBorradoDeCliente.java|controlador/ControladorDeBorradoDeVehiculo.java|controlador/ControladorDeNuevoCliente_.java|controlador/GestorDeClientes_.java|controlador/FormularioDeNuevoCliente.java|controlador/PanelDeControlDeClientes.java|controlador/PanelDeControlDeVehiculos.java|controlador/PanelDeControlDeVentas.java|controlador/ControladorDeEdicionDeVehiculo_.java|controlador/Selector.java|controlador/ControladorDeVentaDeVehiculo_.java|controlador/Editable_.java|modelo/Taller.java|modelo/Talleres.java" kind="src" path="src"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
